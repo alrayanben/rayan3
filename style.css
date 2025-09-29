@@ -1,0 +1,27 @@
+body { background-color: rgb(21, 161, 161);
+       text-align: center;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#sum {background-color: rgb(255, 0, 0);
+color: rgb(255, 255, 255);
+border-radius:8px;
+padding: 10px 20px}
+
+
+#mult {background-color: rgb(255, 0, 0);
+color: rgb(255, 255, 255);
+border-radius:8px;
+padding: 10px 20px;}
+
+
+#rest {background-color: rgb(255, 0, 0);
+color: rgb(255, 255, 255);
+border-radius:8px;
+padding: 10px 20px;}
+
+
+#sum {background-color: rgb(255, 0, 0);
+color: rgb(255, 255, 255);
+border-radius:8px;
+padding: 10px 20px;}
